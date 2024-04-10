@@ -1,0 +1,47 @@
+[
+  {
+    "id": 543,
+    "icon": "/images/Company Icons.svg",
+    "name": "KaiDex"
+  },
+  {
+    "id": 655,
+    "icon": "/images/Company Icons (1).svg",
+    "name": "KaiBridge"
+  },
+  {
+    "id": 677,
+    "icon": "/images/Company Icons (2).svg",
+    "name": "KaiPay"
+  },
+  {
+    "id": 978,
+    "icon": "/images/Company Icons (3).svg",
+    "name": "KaiLaunch"
+  },
+  {
+    "id": 234,
+    "icon": "/images/Company Icons (4).svg",
+    "name": "KaiAudit"
+  },
+  {
+    "id": 432,
+    "icon": "/images/Company Icons (5).svg",
+    "name": "KaiLabs"
+  },
+  {
+    "id": 654,
+    "icon": "/images/Company Icons (6).svg",
+    "name": "Multi Sender App"
+  },
+  {
+    "id": 646,
+    "icon": "/images/Company Icons (7).svg",
+    "name": "MultiSig Wallet"
+  },
+  {
+    "id": 685,
+    "icon": "/images/Company Icons (8).svg",
+    "name": "KaiGames"
+  }
+]

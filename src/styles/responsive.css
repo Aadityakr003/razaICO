@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@media screen and (max-width: 768px) {
+  .text-7xl,
+  .text-6xl {
+    @apply text-[48px] leading-[1] tracking-[-0.02em];
+  }
+  .text-5xl {
+    @apply text-[32px] leading-[38px];
+  }
+  .text-4xl {
+    @apply text-[28px] leading-[33px];
+  }
+  .text-3xl {
+    @apply text-[24px] leading-[30px];
+  }
+  .text-2xl {
+    @apply text-[16px] leading-[20px];
+  }
+  .text-xl,
+  .text-lg {
+    @apply text-[16px] leading-[28px];
+  }
+  .text-base {
+    @apply text-[14px] leading-[25px] tracking-[0.05em];
+  }
+}

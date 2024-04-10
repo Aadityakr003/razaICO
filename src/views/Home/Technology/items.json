@@ -1,0 +1,23 @@
+[
+  {
+    "id": 5234,
+    "title": "In-House Features",
+    "content": "Blockchain alone is not enough. Several dApps are underway and will take advantage of Kaichain's mechanics.",
+    "learnMore": "/more-info",
+    "thumb": "/images/Torus_Stack_R 1f1.png"
+  },
+  {
+    "id": 6575,
+    "title": "Flawless Transaction",
+    "content": "Transactions will be smooth and is readily available ANYTIME and ANYWHERE at maximum speed and efficiency.",
+    "learnMore": "/more-info",
+    "thumb": "/images/Torus_Stack_R 1f2.png"
+  },
+  {
+    "id": 3433,
+    "title": "Unmatched Speed",
+    "content": "With blocks compressed size, fast validations and high speed block times, every transaction will just blast off.",
+    "learnMore": "/more-info",
+    "thumb": "/images/Torus_Stack_R 1f3.png"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "id": 523,
+    "icon": "/images/Social Media Buttons.svg",
+    "url": "https://www.facebook.com/profile.php?id=100083068885286"
+  },
+  {
+    "id": 855,
+    "icon": "/images/Social Media Buttons (1).svg",
+    "url": "https://twitter.com/KaiChain1"
+  },
+  {
+    "id": 966,
+    "icon": "/images/Social Media Buttons (2).svg",
+    "url": "https://t.me/officialkaichain"
+  },
+  {
+    "id": 755,
+    "icon": "/images/Social Media Buttons (3).svg",
+    "url": "https://github.com/kaichain"
+  }
+]

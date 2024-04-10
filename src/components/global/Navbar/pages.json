@@ -1,0 +1,188 @@
+[
+  {
+    "id": 3423,
+    "name": "Developer",
+    "dropdown": [
+      {
+        "title": "KaiChain Basics",
+        "subtitle": "Learn KaiChain’s Environm ent",
+        "display": [
+          {
+            "to": "//docs.kaichain.net",
+            "title": "Documentation"
+          }
+        ]
+      },
+      {
+        "title": "Whitepaper",
+        "subtitle": "See the science behind KaiChain",
+        "display": [
+          {
+            "to": "//kaichain.net/documents/KaiChain_Whitepaper_v2.2.pdf",
+            "title": "Whitepaper",
+            "knicktitle": "(English)"
+          }
+        ]
+      },
+      {
+        "title": "Kaichain Packed and Brief",
+        "subtitle": "KaiChain in brief and packed script",
+        "display": [
+          {
+            "title": "Pitch Deck"
+          },
+          {
+            "to": "//kaichain.net/documents/1-pager%20ver.1.png",
+            "title": "One Pager",
+            "knicktitle": "(v1)"
+          },
+
+          {
+            "to": "//kaichain.net/documents/Kaichain_Pitch_Deck_v2.2.pdf",
+            "title": "One Pager",
+            "knicktitle": "(v2)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3455,
+    "name": "Ecosystem",
+    "dropdown": [
+      {
+        "title": "In House DAPPS",
+        "subtitle": "Get familiar with the dapps created by the team",
+        "display": [
+          {
+            "title": "Kai Dex",
+            "icon": "/images/Company Icons (17).svg"
+          },
+          {
+            "title": "Kai Audit",
+            "icon": "/images/Company Icons (18).svg"
+          },
+          {
+            "title": "MultiSig Wallet",
+            "icon": "/images/Company Icons (19).svg"
+          },
+          {
+            "title": "Kai Bridge",
+            "icon": "/images/Company Icons (20).svg"
+          },
+          {
+            "title": "Kai Labs",
+            "icon": "/images/Company Icons (21).svg"
+          },
+          {
+            "title": "Kai Labs",
+            "icon": "/images/Company Icons (22).svg"
+          },
+          {
+            "title": "Kai Launch",
+            "icon": "/images/Company Icons (23).svg"
+          },
+          {
+            "title": "Multi Sender App",
+            "icon": "/images/Company Icons (24).svg"
+          },
+          {
+            "title": "Kai Pay",
+            "icon": "/images/Company Icons (25).svg"
+          }
+        ]
+      },
+      {
+        "title": "Developer’s Galleries",
+        "subtitle": "See the dapps by the developers around the world"
+      }
+    ]
+  },
+  {
+    "id": 9677,
+    "name": "Network",
+    "dropdown": [
+      {
+        "title": "Mainnet Explorer",
+        "display": [
+          {
+            "to": "//explorer.kaichain.net",
+            "title": "Mainnet Explorer"
+          }
+        ]
+      },
+      {
+        "title": "Testnet Explorer",
+        "display": [
+          {
+            "to": "//testnet-explorer.kaichain.net",
+            "title": "Testnet Explorer" 
+          }
+        ]
+      },
+      {
+        "title": "Faucet",
+        "display": [
+          {
+            "to": "//faucet.kaichain.net",
+            "title": "Faucet"
+          }
+        ]
+      },
+      {
+        "title": "Network Status",
+        "display": [
+          {
+            "to": "//status.kaichain.net",
+            "title": "Network Status"
+          }
+        ]
+      },
+      {
+        "title": "Connecting Metamask to Mainnet",
+        "display": [
+          {
+            "to": "//medium.com/@kaichain.net/connecting-metamask-to-kaichain-9f798fbf76c7",
+            "title": "Follow this Guide"
+          }
+        ]
+      },
+      {
+        "title": "Connecting Metamask to Testnet",
+        "display": [
+          {
+            "to": "//medium.com/@kaichain.net/connecting-metamask-to-kaichain-9f798fbf76c7",
+            "title": "Follow this Guide"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 6755,
+    "name": "Community",
+    "dropdown": [
+      {
+        "knicktitle": "Find us on Facebook.",
+        "knicktitleMobile": "Facebook.",
+        "icon": "/images/Subtract.svg",
+        "iconSpacing": true,
+        "to": "//www.facebook.com/people/KAICHAIN-The-Architecture-of-Flawless-Transactions/100083068885286/"
+      },
+      {
+        "knicktitle": "Follow us on Twitter.",
+        "knicktitleMobile": "Twitter.",
+        "icon": "/images/Group 11.svg",
+        "iconSpacing": true,
+        "to": "//www.twitter.com/KaiChain1"
+      },
+      {
+        "knicktitle": "Send us a message in Telegram.",
+        "knicktitleMobile": "Telegram.",
+        "icon": "/images/Artboard.svg",
+        "iconSpacing": true,
+        "to": "//www.t.me/officialkaichain"
+      }
+    ]
+  }
+]
